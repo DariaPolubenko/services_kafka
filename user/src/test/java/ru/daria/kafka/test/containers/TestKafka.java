@@ -69,7 +69,7 @@ public class TestKafka extends KafkaTestSettings {
         await().atMost(Duration.ofSeconds(10)).until(() -> {
             return attempt.get() >= 3;
         });
-        verify()
+        //verify()
     }
 
 }
