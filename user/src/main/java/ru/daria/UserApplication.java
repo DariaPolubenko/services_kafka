@@ -1,4 +1,4 @@
-package ru.daria.user_service;
+package ru.daria;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

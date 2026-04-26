@@ -1,0 +1,26 @@
+{
+    "type": "record",
+    "name": "userCreateEvent",
+    "namespace": "ru.common.daria",
+    "fields": [
+    {
+    "name": "id",
+    "type": "long"
+    },
+
+    {
+    "name": "firstName",
+    "type": "string"
+    },
+
+    {
+    "name": "lastName",
+    "type": "string"
+    },
+
+    {
+    "name": "age",
+    "type": "int"
+    }
+    ]
+}
